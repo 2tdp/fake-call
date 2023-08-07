@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Fake Call</string>
+
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="home">Home</string>
+    <string name="customize">CUSTOMIZE</string>
+    <string name="back">BACK</string>
+    <string name="select">SELECT</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="str_continue">CONTINUE</string>
+    <string name="get_start">GET START</string>
+    <string name="all">All</string>
+    <string name="del">DELETE</string>
+    <string name="del_all">Delete All</string>
+    <string name="cant_del">Can\'t Delete</string>
+    <string name="cant_save">Can\'t Save</string>
+    <string name="file_name_not_empty">File name can\'t empty</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="theme">Theme</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="apply">Apply</string>
+    <string name="empty">Empty!</string>
+    <string name="no_browser">No Browser</string>
+    <string name="unknown_error_occurred">An unknown error occurred</string>
+    <string name="my_gallery">My Gallery</string>
+
+    <string name="crop">Crop</string>
+    <string name="error_crop">Error Crop</string>
+    <string name="finish">Press 1 more time to exit</string>
+
+    <string name="des_permission">We need you to provide this permission to perform actions inside the app</string>
+
+    //splash
+    <string name="loading">Loading</string>
+    <string name="this_action_may_contain_ads">This action may contain ads</string>
+
+    //onBoarding
+    <string name="your_security_is_our_top_priority">Your security is our top priority!</string>
+    <string name="this_app_is_just_a_fake_call">This app is just a fake call</string>
+    <string name="des_boarding">We will NEVER collect any personal information without your explicit permission.</string>
+    <string name="des_boarding_2">It doesn\'t charge any fees, it\'s FREE.</string>
+
+    //main
+    <string name="call">Call</string>
+    <string name="call_assistant">Call Assistant</string>
+    <string name="history">History</string>
+    <string name="contacts">Contacts</string>
+    <string name="settings">Settings</string>
+
+    //settings
+    <string name="more_settings">More Settings</string>
+    <string name="support">Support</string>
+    <string name="go_home_after_ended_call">Go home after ended call</string>
+    <string name="use_proximity_sensor">Use proximity sensor</string>
+    <string name="phone_call_ring_time">Phone call ring time</string>
+    <string name="des_ring_time">End call after 30s</string>
+    <string name="des_bottom">Call will be off after ringing 30s</string>
+    <string name="sound">Sound</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="des_ringtone">Over The Horizon</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="talk_time">Talk time</string>
+    <string name="des_talk_time">180s</string>
+    <string name="more_app">More app</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share_app">Share app</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="feedback">Feedback</string>
+
+    //call
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_voice">Add voice</string>
+    <string name="select_theme">Select theme</string>
+    <string name="schedule_call">Schedule call</string>
+    <string name="cant_empty_numb">Can\'t empty number</string>
+
+    //history
+    <string name="no_call_history_here">No call history here</string>
+    <string name="des_del">Do you want to delete all fake calls. The pending calls will be canceled after deleted.</string>
+    <string name="des_del_2">Are you sure want to delete fake call history?</string>
+
+    //contact
+    <string name="fake_contact">Fake Contacts</string>
+
+    //pick pic
+    <string name="all_album">All Album</string>
+
+    //pick contact
+    <string name="all_contact">All Contacts</string>
+
+    //pick audio
+    <string name="sounds">SOUNDS</string>
+    <string name="recordings">RECORDINGS</string>
+    <string name="record">Record</string>
+    <string name="duration">00:00:00</string>
+    <string name="per_record">You need record permission to perform this action</string>
+    <string name="err_record">Can\'t record!</string>
+    <string name="del_recordings">Delete Recordings</string>
+
+    //pick theme
+    <string name="your_have_no_custom_theme">Your have no custom theme</string>
+    <string name="create_custom_theme">CREATE CUSTOM THEME</string>
+    <string name="my_theme">My Theme</string>
+    <string name="color">Color</string>
+    <string name="gradient">Gradient</string>
+    <string name="background">Background</string>
+    <string name="btn_style">Button Style</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="private_number">Private Number</string>
+    <string name="number">Mobile +84 3457 80498</string>
+    <string name="photo">PHOTO</string>
+    <string name="gif_online">GIF ONLINE</string>
+
+    //schedule
+    <string name="set_timer">Set Timer</string>
+    <string name="txt_10s">10s</string>
+    <string name="txt_30s">30s</string>
+    <string name="txt_1m">1min</string>
+    <string name="txt_5m">5min</string>
+    <string name="txt_15m">15min</string>
+    <string name="txt_30m">30min</string>
+    <string name="now">Now</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="set_theme_name">Set theme name</string>
+    <string name="per_overlay">You need overlay permission to use this app</string>
+    <string name="draw_overlay_permission">Draw overlay permission</string>
+    <string name="des_per_overlay">We need permission to draw on top of other apps to work properly</string>
+
+    //call
+    <string name="mute">Mute</string>
+    <string name="keypad">Keypad</string>
+    <string name="speaker">Speaker</string>
+    <string name="add_call">Add call</string>
+    <string name="video_call">Video call</string>
+
+    <string name="deny_per">"Permission is required to use this function"</string>
+    <string name="auto_start_per">Autostart permission</string>
+    <string name="allow_permission">Allow permission</string>
+    <string name="dont_ask_again">Don’t ask again</string>
+    <string name="des_auto_start">We need this permission to run function work properly</string>
+    <string name="des_contacts">Not linked to your contacts. \nClick the button to accept the link.</string>
+</resources>
