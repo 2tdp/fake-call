@@ -47,7 +47,7 @@ class MyCallActivity : BaseActivity<ActivityMyCallBinding>(ActivityMyCallBinding
 
     private lateinit var audioManager: AudioManager
     private lateinit var sensorManager: SensorManager
-    private lateinit var proximity: Sensor
+    private var proximity: Sensor? = null
     private lateinit var pm: PowerManager
     private var wlOn: PowerManager.WakeLock? = null
     private var wlOff: PowerManager.WakeLock? = null

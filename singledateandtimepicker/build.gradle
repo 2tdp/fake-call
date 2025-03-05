@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 
 android {
+    namespace "com.github.florent37.singledateandtimepicker"
     compileSdkVersion 33
 
     defaultConfig {
